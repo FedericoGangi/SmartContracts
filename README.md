@@ -9,3 +9,4 @@ SmartContract link: https://amoy.polygonscan.com/address/0x082d6c32Da86171d2Db16
 
 
 ERC1155.sol crea un NFT e l'ho deployato su Amoy di Polygon.
+SmartContract link: https://amoy.polygonscan.com/address/0x657ff707c76C990199f9c02853b4e0cdb6cFbF96
